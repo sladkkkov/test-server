@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     String personJson = """
             {
-             "firstName": "Danila",
-             "lastName": "Sladkov",
+             "firstName" : "Danila",
+             "lastName" : "Sladkov",
              "age" : 22
             }""";
 
