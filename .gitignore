@@ -13,6 +13,10 @@ target/
 .springBeans
 .sts4-cache
 
+
+mvnw.cmd
+mvnw
+.mvn
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -31,3 +35,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+*.classpath
+*.class
+*.prefs
+*.jar
+*.lst
+*.project
+*.factorypath
+*.original
+.settings/
